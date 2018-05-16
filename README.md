@@ -1,1 +1,1 @@
-"Koszi masodik zhra gyakorlo feladatok megoldasa" 
+Köszi második zhra gyakorló feladatok megoldása 
